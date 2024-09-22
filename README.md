@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @irfannurf21
-- 👀 I’m interested in hacking
-- 🌱 I’m currently learning C, Java, Javascript
-- 💞️ I’m looking to collaborate on crypto currency 
+- 🌱 I’m currently learning C, Java, Javascript, Phyton
 - 📫 How to reach me ? irfan.nurfahrudin@gmail.com
 
 <!---
