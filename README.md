@@ -66,11 +66,12 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfannurf21&layout=compact&theme=tokyonight" alt="Most Used Languages" width="41%"/>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=irfannurf21&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
+### 📊 **GitHub Statistics**  
+<p align="left">
+<a href="https://github.com/irfannurf21">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=irfannurf21&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=irfannurf21&layout=compact&theme=algolia"/>
+</a>
 </p>
 
 <p align="center">
