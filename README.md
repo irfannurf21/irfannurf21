@@ -2,11 +2,11 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=649568&center=true&vCenter=true&width=900&height=110&lines=Data+Enthusiastic;Programmer;ML+Enthusiastic;Photographer;Crypto+Enthusiastic;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=649568&center=true&vCenter=true&width=900&height=110&lines=Programmer;Data+Enthusiastic;ML+Enthusiastic;Crypto+Enthusiastic;Photographer;)](https://git.io/typing-svg)
 ---
 
 ### 💬 About Me
-- 🔥 Passionate about **AI, Cryptocurrency, and Photography**  
+- 🔥 Passionate about **AI, Machine Learning, Cryptocurrency, and Photography**  
 - 📫 Reach me at **irfan.nurfahrudin@gmail.com**  
 
 ---
